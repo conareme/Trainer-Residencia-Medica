@@ -1,0 +1,1202 @@
+[
+    {
+        "numero": 1,
+        "enunciado": "Recién nacido por cesárea, con 29 semanas de edad gestacional, presenta marcada dificultad respiratoria. ¿Cuál es la terapia indicada luego de la atención de urgencia?",
+        "opciones": {
+            "A": "Surfactante",
+            "B": "Corticoide",
+            "C": "Óxido nítrico",
+            "D": "Vitamina K",
+            "E": "Tetraciclina"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 2,
+        "enunciado": "En el tratamiento de diabetes mellitus tipo 2. ¿Cuál de los siguientes fármacos aumenta la excreción urinaria de glucosa?",
+        "opciones": {
+            "A": "Sitagliptina",
+            "B": "Metformina",
+            "C": "Glimepirida",
+            "D": "Pioglitazona",
+            "E": "Empagliflozina"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 3,
+        "enunciado": "Pre-escolar de 3 años llega a emergencia por presentar bruscamente violentos paroxismos de tos y marcada dificultad respiratoria. Al examen: FR:40X', FC:120X', politirajes, aleteo nasal, Sat O2: 90%, murmullo vesicular disminuido en HTD y sibilancias localizadas en la misma zona. ¿Cuál es el diagnóstico probable?",
+        "opciones": {
+            "A": "Neumonía viral",
+            "B": "Crup espasmódico",
+            "C": "Neumotórax",
+            "D": "Crisis asmática",
+            "E": "Cuerpo extraño"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 4,
+        "enunciado": "¿A qué edad en meses, el niño logra hacer una torre con 7 cubos?",
+        "opciones": {
+            "A": "24",
+            "B": "15",
+            "C": "18",
+            "D": "12",
+            "E": "20"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 5,
+        "enunciado": "Mujer de 50 años, obesa, hipertensa, con antecedente de cáncer de colon, viaja en bus de Tumbes a Lima, al llegar presenta súbitamente dolor torácico, disnea y síncope. Ingresa a emergencia con PA: 120/60 mm Hg, FC: 120X'. FR: 30X'. Sat O2: 96%. Con diagnóstico de tromboembolismo pulmonar. ¿Cuál es la dosis de enoxaparina que se debe administrar?",
+        "opciones": {
+            "A": "1 mg/Kg cada 24 horas SC",
+            "B": "1 mg/Kg cada 12 horas EV",
+            "C": "1 mg/Kg cada 24 horas EV",
+            "D": "1 mg/Kg cada 12 horas SC",
+            "E": "2 mg/Kg cada 12 horas EV"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 6,
+        "enunciado": "Paciente de 37 años, con antecedente de menometrorragia hace 1 año. Examen pélvico: útero aumentado de tamaño, irregular, firme e indoloro. ¿Cuál es el diagnóstico más probable?",
+        "opciones": {
+            "A": "Pólipo endometrial",
+            "B": "Endometritis",
+            "C": "Hiperplasia endometrial",
+            "D": "Miomas uterinos",
+            "E": "Cáncer cervical invasor"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 7,
+        "enunciado": "Varón de 28 años, luego de 8 horas de accidente de tránsito, presenta intenso dolor en pierna derecha con incapacidad funcional. Examen: PA: 120/80 mmHg. Pulso: 90X'. T°: 37.5°C, pierna derecha con aumento de volumen y edema (+++), ausencia de pulso pedio. Rx. miembros inferiores: fisura diafisaria en tibia derecha. Ecodoppler: disminución del flujo arterial distal en pierna derecha. ¿Cuál es el tratamiento inicial?",
+        "opciones": {
+            "A": "Inmovilización del miembro inferior derecho",
+            "B": "Colocación de placa y tornillos",
+            "C": "Fijación externa",
+            "D": "Fasciotomía de pierna derecha",
+            "E": "Revascularización de la arteria"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 8,
+        "enunciado": "La calificación del APGAR permite identificar ..... del recién nacido.",
+        "opciones": {
+            "A": "el desarrollo neurológico",
+            "B": "la vitalidad",
+            "C": "el desarrollo neuromuscular",
+            "D": "la edad gestacional",
+            "E": "el grado de dificultad respiratoria"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 9,
+        "enunciado": "¿Cuál es el mecanismo de acción del bromuro de Ipratropio?",
+        "opciones": {
+            "A": "Bloquea los receptores Cis_LT1",
+            "B": "Activa los receptores adrenérgicos beta 2",
+            "C": "Antagoniza los receptores muscarínicos",
+            "D": "Disminuye el número de células inflamatorias",
+            "E": "Inhibe la fosfodiesterasa del músculo liso"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 10,
+        "enunciado": "Paciente de 28 años, acude por dos años de intento reproductivo sin éxito. Antecedente de múltiples parejas sexuales. Examen: sin alteraciones. Histerosalpingografía: obstrucción de trompas. ¿Cuál es la causa más probable de infertilidad?",
+        "opciones": {
+            "A": "Factor adherencial",
+            "B": "Enfermedad pélvica inflamatoria",
+            "C": "Miomatosis uterina",
+            "D": "Malformaciones uterinas",
+            "E": "Hiperplasia endometrial"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 11,
+        "enunciado": "Recién nacido de 4 semanas con vómitos en \"proyectil\"; le diagnostican: estenosis hipertrófica del píloro. ¿Cuál es el tratamiento quirúrgico de elección?",
+        "opciones": {
+            "A": "Piloromiotomía laparoscópica",
+            "B": "Esofagostomía",
+            "C": "Gastroduodeno anastomosis",
+            "D": "Gastrectomía distal",
+            "E": "Gastrostomía"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 12,
+        "enunciado": "Varón de 48 años hipertenso, ingresa a emergencia por palpitaciones, síncope y disnea. Examen: despierto, taquipneico, PA: 110/70 mmHg, FC: 140X´, FR: 22X´, Sat O2: 97%. EKG: taquiarritmia de complejos angostos irregulares compatibles con fibrilación auricular. ¿Cuál es el tratamiento de elección para el control de frecuencia cardiaca?",
+        "opciones": {
+            "A": "Lidocaína",
+            "B": "Adenosina",
+            "C": "Labetalol",
+            "D": "Propafenona",
+            "E": "Digoxina"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 13,
+        "enunciado": "Varón de 40 años, con dolor en oido izquierdo de moderada intensidad y fiebre. Recibe tratamiento con antiinflamator ios y antibióticos. Seis semanas después aparece otorrea e hipoacusia. ¿Cuál es la complicación más frecuente?",
+        "opciones": {
+            "A": "Meningitis",
+            "B": "Nistagmus persistente",
+            "C": "Sinusitis",
+            "D": "Rinorrea crónica",
+            "E": "Parálisis del V par"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 14,
+        "enunciado": "La siguiente definición: \"una red de organizaciones que presta, o hace los arreglos para prestar, servicios de salud equitativos e integrales a una población definida, y que está dispuesta a rendir cuentas por sus resultados clínicos y económicos y por el estado de salud de la población a la que sirve\"; corresponde a:",
+        "opciones": {
+            "A": "Redes Integradas de Servicios de Salud",
+            "B": "Modelo Mixto de Atención de Salud",
+            "C": "Sistema de Integración Horizontal",
+            "D": "Modelo de Atención Integral de Salud",
+            "E": "Asociación Pública Privada de Salud"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 15,
+        "enunciado": "¿Cuáles son los efectos adversos sistémicos más frecuentes, luego de vacunar a un niño con DPT?",
+        "opciones": {
+            "A": "Irritabilidad, fiebre (38° C), somnolencia",
+            "B": "Vómito, edema, dolor",
+            "C": "Diaforesis, sueño, vómito",
+            "D": "Dolor, vómito, convulsiones",
+            "E": "Convulsiones, llanto excesivo"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 16,
+        "enunciado": "De acuerdo a la norma técnica de tuberculosis, al paciente que se le realiza uno o más baciloscopías de esputo, corresponde a sintomático respiratorio ...",
+        "opciones": {
+            "A": "descartado.",
+            "B": "sospechoso.",
+            "C": "examinado.",
+            "D": "identificado.",
+            "E": "detectado."
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 17,
+        "enunciado": "Mujer de 50 años hipertensa, hipotiroidea, con enfermedad renal crónica estadío III y con antecedente de infecciones urinarias a repetición, desarrolla neuropatía periférica. ¿Cuál es el fármaco más asociado a este efecto adverso?",
+        "opciones": {
+            "A": "Tiamazol",
+            "B": "Nitrofurantoína",
+            "C": "Enalapril",
+            "D": "Furosemida",
+            "E": "Levotiroxina"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 18,
+        "enunciado": "¿Cuál es el tratamiento de elección en pacientes con crisis de ausencia?",
+        "opciones": {
+            "A": "Ácido valproico",
+            "B": "Gabapentina",
+            "C": "Fenitoina",
+            "D": "Carbamazepina",
+            "E": "Fenobarbital"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 19,
+        "enunciado": "Varón, con fractura en tercio medio de tibia derecha sin desplazamiento. Presenta marcada inflamación y edema de la extremidad lesionada. ¿Cuál es el periodo ideal en horas para colocar el aparato de yeso?",
+        "opciones": {
+            "A": "10-18",
+            "B": "72-96",
+            "C": "01-09",
+            "D": "24-72",
+            "E": "19-23"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 20,
+        "enunciado": "¿Cuál de los siguientes fármacos puede ser usado como uterotónico en el manejo del alumbramiento?",
+        "opciones": {
+            "A": "Terbutalina",
+            "B": "Atosibán",
+            "C": "Progesterona",
+            "D": "Oxitocina",
+            "E": "Levonorgestrel"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 21,
+        "enunciado": "Lactante de 11 meses, presenta durante 3 días fiebre de 39°C, que cede espontáneamente, presentando luego erupción máculopapular rosada no pruriginosa en tronco, que se extiende a cara y extremidades. ¿Cuál es el diagnóstico?",
+        "opciones": {
+            "A": "Escarlatina",
+            "B": "Roséola",
+            "C": "Sarampión",
+            "D": "Eritema infeccioso",
+            "E": "Rubéola"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 22,
+        "enunciado": "Varón de 30 años, presenta caída a \"horcajada\", llega a emergencia con hematuria franca, incapacidad para orinar. Examen: hematoma perineal y sangre en el meato urinario. ¿Cuál es la estructura lesionada?",
+        "opciones": {
+            "A": "Riñón",
+            "B": "Vejiga",
+            "C": "Próstata",
+            "D": "Uretra",
+            "E": "Uréter"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 23,
+        "enunciado": "Niño de 12 años que sufre quemadura oftálmica con lejía, se le diagnostica queratitis traumática. ¿Cuál es el tratamiento inicial?",
+        "opciones": {
+            "A": "Corticoterapia sistémica",
+            "B": "Antinflamatorios sistémicos",
+            "C": "Oclusión de ojo afectado",
+            "D": "Anestésicos locales",
+            "E": "Lavado y antibioticoterapia"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 24,
+        "enunciado": "Varón de 52 años, diabético y enfermedad renal crónica en hemodiálisis, presenta hemorragia digestiva alta, hipotenso y taquicárdico. Hb: 5 g/dl. Evoluciona con dolor precordial opresivo y disnea. EKG: cambios compatibles con síndrome coronario agudo. Según la clasificación universal de infarto de miocardio. ¿A qué tipo corresponde?",
+        "opciones": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1",
+            "E": "5"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 25,
+        "enunciado": "¿Cómo se denomina el tipo de anestesia neuroaxial de aplicación extradural en la periferia?",
+        "opciones": {
+            "A": "Sedación",
+            "B": "Endovenosa",
+            "C": "Subdural",
+            "D": "General",
+            "E": "Regional"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 26,
+        "enunciado": "¿Cuál de las siguientes alternativas corresponde a la Atención Integral de Salud del Recién Nacido?",
+        "opciones": {
+            "A": "Visita familiar integral para nacidos de bajo peso",
+            "B": "Atención a prioridades sanitarias IRA",
+            "C": "Evaluación músculo esquelética",
+            "D": "Prevención de enfermedades prevalentes",
+            "E": "Intervenciones educativas a los padres sobre higiene"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 27,
+        "enunciado": "Gestante O Rh (-) con pareja O Rh (+), no sensiblizada. ¿Entre qué edad gestacional en semanas, debe recibir la inmunoglobulina anti D?",
+        "opciones": {
+            "A": "34 y 38",
+            "B": "22 y 26",
+            "C": "28 y 32",
+            "D": "36 y 38",
+            "E": "18 y 22"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 28,
+        "enunciado": "¿Cuál de los siguientes estudios epidemiológicos se aplica para conocer la prevalencia de una enfermedad en la población?",
+        "opciones": {
+            "A": "Caso control",
+            "B": "Cohorte",
+            "C": "Transversal",
+            "D": "Correlacional",
+            "E": "Experimental"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 29,
+        "enunciado": "Primigesta de 42 semanas acude por contracciones uterinas esporádicas y pérdida del tapón mucoso, sin signos de alarma. Examen: PA 90/60 mmHg, altura uterina: 33 cm, longitudinal cefálico derecho, latidos fetales: 142X', test no estresante reactivo, al tacto vaginal no cambios cervicales y pelvis ginecoide. ¿Cuál es la conducta a seguir?",
+        "opciones": {
+            "A": "Observación hospitalizada",
+            "B": "Inducción de trabajo de parto",
+            "C": "Parto por cesárea",
+            "D": "Observación ambulatoria",
+            "E": "Ruptura de membranas"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 30,
+        "enunciado": "Lactante de 6 meses que inicia con rinorrea acuosa, estornudos, fiebre, hiporexia, luego tos y ronquera. Examen: FR: 32X', FC: 120X', eutrófico, rinorrea trasparente, orofaringe congestiva, membranas timpánicas con eritema circular y respiración ruda bilateral. ¿Cuál es el diagnóstico?",
+        "opciones": {
+            "A": "Sinusitis",
+            "B": "Resfrio común",
+            "C": "Faringitis aguda",
+            "D": "Bronquitis",
+            "E": "Otitis media aguda"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 31,
+        "enunciado": "Varón de 50 años, con baja de peso y tos productiva. Antecedentes: consumo de cigarrillos desde los 15 años. Luego de evaluación y estudios, se diagnostica carcinoma epidermoide pulmonar. En estadíos iniciales del cáncer. ¿A qué tipo de epitelio se transforma el pseudoestratificado cilíndrico?",
+        "opciones": {
+            "A": "Estratificado escamoso",
+            "B": "Simple cilíndrico",
+            "C": "Simple cúbico",
+            "D": "Simple granular",
+            "E": "Poliestratificado mucinoso"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 32,
+        "enunciado": "¿Cuál es el fármaco inhibidor de la fosfodiesterasa que se emplea en el tratamiento del asma?",
+        "opciones": {
+            "A": "Budesonida",
+            "B": "Montelukast",
+            "C": "Teofilina",
+            "D": "Tiotropio",
+            "E": "Salmeterol"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 33,
+        "enunciado": "Lactante mujer de 18 meses, con episodios de diarrea a repetición, hiporexia y pobre ganancia pondoestatural. Es traída a emergencia con fiebre alta y vómitos alimentarios. Examen: adelgazada, pálida, signos de deshidratación leve, abdomen excavado. Laboratorio: reacción inflamatoria negativo. ¿En qué diagnóstico sospecha?",
+        "opciones": {
+            "A": "Intolerancia a la lactosa",
+            "B": "Intoxicación alimentaria",
+            "C": "Gastritis",
+            "D": "Infección urinaria",
+            "E": "Diarrea bacteriana"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 34,
+        "enunciado": "¿Cuál es la principal acción del lactógeno placentario humano durante el embarazo?",
+        "opciones": {
+            "A": "Actividad autoinmune",
+            "B": "Relajar el músculo liso",
+            "C": "Antagonizar la acción de la insulina",
+            "D": "Mantener el cuerpo lúteo",
+            "E": "Disminuir el flujo sanguíneo del útero"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 35,
+        "enunciado": "Varón de 22 años, desde hace 3 días presenta deposiciones líquidas sanguinolentas 2 a 3 veces/día, con vómitos, fiebre y dolor abdominal tipo cólico. Antecedente de tratamiento antimicrobiano hace 1 semana. Examen: T: 38°C, FP: 98 X', deshidratado; abdomen con ligera distensión y aumento de ruidos hidroaéreos. ¿Cuál es el agente causal más frecuente?",
+        "opciones": {
+            "A": "Clostridium difficile",
+            "B": "Rotavirus",
+            "C": "Campylobacter jejuni",
+            "D": "Vibrion cholerae",
+            "E": "Shigella sp"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 36,
+        "enunciado": "¿Cuál de los siguientes fármacos está contraindicado en la gestante hipertensa?",
+        "opciones": {
+            "A": "Inhibidores de enzima de conversión de angiotensina II",
+            "B": "Simpaticolíticos con acción central",
+            "C": "Antagonistas alfa selectivos",
+            "D": "Vasodilatadores directos",
+            "E": "Antagonistas de los canales de calcio"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 37,
+        "enunciado": "Varón de 60 años, acude a consulta por presentar dolor óseo, debilidad muscular y fatiga. Bioquímica sanguínea: hipofosfatemia, normocalcemia, acidosis metabólica hiperclorémica, hipouricemia e hipokalemia. Dipstick urinario: glucosa (+), proteinuria (+). ¿En qué zona de la nefrona se encuentra el defecto?",
+        "opciones": {
+            "A": "Túbulo contorneado proximal",
+            "B": "Asa descendente de Henle",
+            "C": "Túbulo colector",
+            "D": "Túbulo distal",
+            "E": "Asa ascendente de Henle"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 38,
+        "enunciado": "¿Cuál de las siguientes condiciones aumenta el riesgo de transmisión vertical de VIH?",
+        "opciones": {
+            "A": "Ruptura de membranas mayor de 4 horas",
+            "B": "Carga viral indetectable",
+            "C": "Pinzamiento del cordón umbilical sin ordeñar",
+            "D": "Tratamiento antirretroviral",
+            "E": "Profilaxis antirretroviral antes del parto"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 39,
+        "enunciado": "¿Cuál de los siguientes métodos anticonceptivos está contraindicado durante la lactancia materna?",
+        "opciones": {
+            "A": "Dispositivo intrauterino",
+            "B": "Método de barrera",
+            "C": "Progestágenos inyectable",
+            "D": "Píldoras de solo progestágenos",
+            "E": "Anticonceptivos orales combinados"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 40,
+        "enunciado": "La erosión cutánea por el aparato de yeso es una complicación que puede ser devastadora. ¿Por qué se ocasiona?",
+        "opciones": {
+            "A": "Acojinamiento insuficiente sobre prominencia ósea",
+            "B": "Colocación de la férula en muy corto tiempo",
+            "C": "Falta de cubierta con manga",
+            "D": "Falta de cubierta con calcetín de tela",
+            "E": "Férula de gran espesor"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 41,
+        "enunciado": "Lactante de 8 meses, presenta desde hace 2 días diarrea, vómitos e hiporexia. Examen: letárgico, pálido, extremidades distales frías, abdomen distendido, taquicárdico. ¿Qué alteración electrolítica explica el compromiso del sensorio?",
+        "opciones": {
+            "A": "Hiponatremia",
+            "B": "Hiperkalemia",
+            "C": "Hipernatremia",
+            "D": "Hipocalcemia",
+            "E": "Hipokalemia"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 42,
+        "enunciado": "¿Cuál es el patrón radiológico más frecuente de tuberculosis pulmonar en pacientes VIH, con linfocitos CD4 < 200 µl?",
+        "opciones": {
+            "A": "Linfoadenopatía intratorácica",
+            "B": "Infiltrado intersticial difuso",
+            "C": "Cavitaria en ápices",
+            "D": "Neumónico basal",
+            "E": "Derrame pleural"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 43,
+        "enunciado": "Varón de 30 años, sufre accidente de tránsito. Examen: rodilla derecha tumefacta, con signos de flogosis y muy dolorosa a la palpación, movimiento lateral y medial de tibia. ¿Cuál es el probable diagnóstico?",
+        "opciones": {
+            "A": "Luxación de rótula",
+            "B": "Ruptura de ligamentos lateral y medial",
+            "C": "Fractura de tibia y peroné",
+            "D": "Ruptura del cuadriceps",
+            "E": "Fractura de tibia y femur"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 44,
+        "enunciado": "Durante los ejercicios físicos bruscos, frecuentemente se produce la ruptura del tendón de Aquiles. ¿Cuál es la causa más probable de esta lesión?",
+        "opciones": {
+            "A": "Contusión directa sobre el tendón",
+            "B": "Cambios bruscos de dirección",
+            "C": "Excesivos ejercicios anteriores",
+            "D": "Poco calentamiento previo de músculos",
+            "E": "Ejercitar las mismas rutinas"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 45,
+        "enunciado": "Mujer de 28 años, hace 15 días presenta cansancio, disnea a medianos esfuerzos y artralgias. Examen: palidez de piel y mucosas, ictericia, no adenopatias periféricas, abdomen: hígado y bazo palpables. Laboratorio: Hb: 8.5 g/dl, BT: 4.5 mg/dl, BI: 3.8 mg/dl, reticulocitos: 3 %, DHL: 1200 mg/dl. ¿Cuál es el tipo de anemia?",
+        "opciones": {
+            "A": "Hemolítica",
+            "B": "Deficiencia de B12",
+            "C": "Mielodisplásica",
+            "D": "Ferropénica",
+            "E": "Deficiencia de ácido fólico"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 46,
+        "enunciado": "Dentro los Determinantes Sociales de la Salud. ¿Cuáles son Determinantes Intermediarios?",
+        "opciones": {
+            "A": "Cohesión social, conducta, factores biológicos",
+            "B": "Ocupación, educación, posición social",
+            "C": "Contexto político, gobernanza, atención sanitaria",
+            "D": "Normas y valores culturales, posición social",
+            "E": "Circunstancias materiales, género, raza"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 47,
+        "enunciado": "Adolescente de 13 años, presenta en forma recurrente cefalea pulsátil, focalizada en región frontal de moderada intensidad y en incremento, asociada a náuseas, vómitos y fotofobia. Antecedente de madre con cuadro similar. ¿Cuál es el diagnóstico probable?",
+        "opciones": {
+            "A": "Depresión",
+            "B": "Ametropía",
+            "C": "Tumor cerebral",
+            "D": "Migraña",
+            "E": "Aneurisma"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 48,
+        "enunciado": "¿Cuál es el agente infeccioso más frecuente en sepsis neonatal precoz?",
+        "opciones": {
+            "A": "Staphylococcus aureus",
+            "B": "Escherichia coli",
+            "C": "Enterococcus faecalis",
+            "D": "Chlamydia trachomatis",
+            "E": "Pseudomona sp"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 49,
+        "enunciado": "Lactante de 11 meses con antecedente de dos episodios de neumonía bacteriana y uno de otitis media aguda; hermano fallecido a los 18 meses por sepsis. ¿Cuál de las siguientes vacunas esta contraindicada?",
+        "opciones": {
+            "A": "Antineumocócica",
+            "B": "Polio inyectable",
+            "C": "Influenza",
+            "D": "Vacuna triple vírica",
+            "E": "Pentavalente"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 50,
+        "enunciado": "Mujer de 23 años, acude por presentar lesiones genitales hace 10 días. Examen: adenopatía inguinal bilateral y dolorosa, genitales: lesiones ulcerativas profundas, con márgenes irregulares y bordes excavados. ¿Cuál es el diagnóstico más probable?",
+        "opciones": {
+            "A": "Granuloma inguinal",
+            "B": "Chancroide",
+            "C": "Sífilis",
+            "D": "Herpes genital",
+            "E": "Donovanosis"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 51,
+        "enunciado": "Mujer de 40 años con molestias digestiva leves, se indica endoscopía gástrica. ¿Qué espera encontrar en relación a prevención del cáncer gástrico?",
+        "opciones": {
+            "A": "Pólipos adenomatosos",
+            "B": "Úlcera duodenal",
+            "C": "Helicobacter pylori",
+            "D": "Gastritis",
+            "E": "Úlcera gástrica"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 52,
+        "enunciado": "¿Cuál es el mioma uterino que clínicamente produce abundante sangrado vaginal acompañado de coágulos?",
+        "opciones": {
+            "A": "Submucoso",
+            "B": "Mixto",
+            "C": "Intramural",
+            "D": "Subseroso",
+            "E": "Endometrial"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 53,
+        "enunciado": "Mujer de 40 años, desde hace tres días con ictericia leve, no fiebre, dolor tipo cólico en hipocondrio derecho. Antecedente de colecistitis crónica. Examen: ictericia de piel y escleras. Abdomen: distendido y dolor a la palpación profunda en hipocondrio derecho. ¿Cuál es el examen indicado para su diagnóstico?",
+        "opciones": {
+            "A": "Tomografía abdominal",
+            "B": "Ecografía endoscópica",
+            "C": "Colangiografía endoscópica",
+            "D": "Colecistografía endovenosa",
+            "E": "Ecografía abdominal"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 54,
+        "enunciado": "¿Cuál es la causa de la hiponatremia hipovolémica con sodio urinario mayor de 20 mEq/L?",
+        "opciones": {
+            "A": "Diuresis osmótica",
+            "B": "Insuficiencia renal aguda",
+            "C": "Insuficiencia renal crónica",
+            "D": "Deficiencia de glucocorticoides",
+            "E": "Pancreatitis aguda"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 55,
+        "enunciado": "Gestante de 31 semanas, ingresa a emergencia por presentar desde hace 8 horas contracciones uterinas de regular intensidad y frecuencia. ¿En que caso está contraindicado el uso de tocolíticos?",
+        "opciones": {
+            "A": "Placenta previa",
+            "B": "Corioamnionitis",
+            "C": "Dilatación cervical de 1 cm",
+            "D": "Ruptura prematura de membranas",
+            "E": "Restricción del crecimiento fetal"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 56,
+        "enunciado": "Varón de 75 años, consulta por pérdida de peso, tos con expectoración hemoptoica y cefalea global persistente. Sin antecedentes. Examen: adelgazado, pálido, polipneico y pulmones normales. Rx de tórax: masa parahiliar derecha. Tomografía cerebral: imágenes compatibles con metástasis. ¿Cuál es el tipo de cáncer más frecuente?",
+        "opciones": {
+            "A": "Adenocarcinoma",
+            "B": "Macrocítico de pulmón",
+            "C": "Epidermoide",
+            "D": "Microcítico de pulmón",
+            "E": "Carcinoide bronquial"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 57,
+        "enunciado": "¿A qué edad en años, se administra el segundo refuerzo de la vacuna DPT?",
+        "opciones": {
+            "A": "10",
+            "B": "4",
+            "C": "6",
+            "D": "5",
+            "E": "3"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 58,
+        "enunciado": "Varón de 26 años, desde hace 2 meses diagnosticado de fisura anal no complicada, con tratamiento de ablandadores de heces. La sintomatología dolorosa continúa. ¿Qué tratamiento le recomendaría?",
+        "opciones": {
+            "A": "Esfinterotomía lateral interna",
+            "B": "Esfinterotomía lateral externa",
+            "C": "Anestésicos locales",
+            "D": "Infiltración con toxina botulínica",
+            "E": "Fisurotomía"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 59,
+        "enunciado": "Recién nacido, con inyección conjuntival y secreción. En el frotis se evidencia diplococos gram negativos. ¿Cuál es el tratamiento de elección?",
+        "opciones": {
+            "A": "Cotrimoxazol",
+            "B": "Cloranfenicol",
+            "C": "Ceftriaxona",
+            "D": "Eritromicina",
+            "E": "Tetraciclina"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 60,
+        "enunciado": "Paciente de 17 años, con flujo vaginal amarillento, mal olor, asociado a prurito vulvar y vaginal. Especuloscopía: cuello en fresa. ¿Cuál es el tratamiento más adecuado?",
+        "opciones": {
+            "A": "Metronidazol",
+            "B": "Fluconazol",
+            "C": "Azitromicina",
+            "D": "Cefixima",
+            "E": "Terconazol"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 61,
+        "enunciado": "La siguiente definición: \"Estrategia de la promoción que combina acciones individuales y sociales destinadas a superar resistencias, prejuicios y controversias; así como a conseguir compromisos y apoyo para las políticas de salud, aceptación social y apoyo de los sistemas para un determinado objetivo o programa de salud\". Corresponde a:",
+        "opciones": {
+            "A": "Intersectorialidad",
+            "B": "Abogacía",
+            "C": "Participación",
+            "D": "Interculturalidad",
+            "E": "Concertación"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 62,
+        "enunciado": "Paciente de 60 años, obesa, nulípara acude refiriendo sangrado vaginal de tres meses de evolución, niega antecedentes familiares de importancia. Examen: sin alteraciones. Papanicolaou negativo. ¿Cuál es el estudio más adecuado?",
+        "opciones": {
+            "A": "Ecografía transvaginal",
+            "B": "Resonancia magnética",
+            "C": "Colposcopía",
+            "D": "Histerosonografía",
+            "E": "Tomografía"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 63,
+        "enunciado": "¿Cuál es la presión de oxígeno en mmHg a nivel del capilar pulmonar, después de pasar por el alveólo, en un individuo sano?",
+        "opciones": {
+            "A": "100",
+            "B": "80",
+            "C": "140",
+            "D": "60",
+            "E": "120"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 64,
+        "enunciado": "¿Cuál es el riesgo en una gestante, que en control prenatal se diagnostica bacteriuria asintomática y no recibe tratamiento?",
+        "opciones": {
+            "A": "Salpingitis",
+            "B": "Uretritis",
+            "C": "Cistitis",
+            "D": "Pielonefritis",
+            "E": "Trigonitis"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 65,
+        "enunciado": "¿Cuál es la respuesta neuroendocrina hallada en shock?",
+        "opciones": {
+            "A": "Descenso del estímulo adrenérgico",
+            "B": "Inhibición de liberación del péptido natriurético cerebral",
+            "C": "Menor secreción pancreática de glucagón",
+            "D": "Disminución de liberación de renina",
+            "E": "Mayor liberación de ACTH"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 66,
+        "enunciado": "Dentro del Plan Escencial de Aseguramiento en Salud. ¿Cuál de las siguientes condiciones en su nivel resolutivo, corresponde al Tercer Nivel de Atención?",
+        "opciones": {
+            "A": "SIDA",
+            "B": "Malaria",
+            "C": "Anemia nutricional",
+            "D": "Vulvovaginitis",
+            "E": "Absceso cutáneo"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 67,
+        "enunciado": "Adolescente de 15 años, llega a emergencia presentando agitación psicomotriz, alucinaciones visuales. Examen: FC:120X', T° 38.5°C, PA 160/100 mmHg, piel sudorosa, pupilas dilatadas. ¿Cuál es el toxico causal?",
+        "opciones": {
+            "A": "Benzodiazepina",
+            "B": "Órganofosforado",
+            "C": "Alcohol",
+            "D": "Cocaína",
+            "E": "Heroina"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 68,
+        "enunciado": "Recién nacido post-término, cesárea por sufrimiento fetal, teñido de meconio. Examen: deprimido, sin esfuerzo respiratorio, bradicárdico, cianótico. ¿Cuál es la conducta a seguir?",
+        "opciones": {
+            "A": "Secado enérgico",
+            "B": "Oxígeno en cánula binasal",
+            "C": "Estimulación tactil",
+            "D": "Intubación endotraqueal y aspiración",
+            "E": "Oxido nítrico inhalado"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 69,
+        "enunciado": "Varón de 35 años con antecedente de prostatitis, acude a consulta por presentar disuria, polaquiuria y dolor suprapúbico. Examen: puntos renoureterales medios (+). Examen de orina: leucocitos 20 por campo y urocultivo en proceso. ¿Cuál es el tratamiento de elección?",
+        "opciones": {
+            "A": "Nitrofurantoína",
+            "B": "Amoxicilina",
+            "C": "Levofloxacino",
+            "D": "Cotrimoxazol",
+            "E": "Cefuroxima"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 70,
+        "enunciado": "Paciente de 36 años, acude por sangrado vaginal postcoital recurrente y flujo vaginal mal oliente que no cede a tratamiento; en el Papanicolaou se encuentra lesión intraepitelial escamosa de alto grado. ¿Cuál es el siguiente paso en el proceso diagnóstico?",
+        "opciones": {
+            "A": "Tomografía",
+            "B": "Histerectomía",
+            "C": "Laparoscopía",
+            "D": "Colposcopía",
+            "E": "Conización"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 71,
+        "enunciado": "¿Cuál es el factor de riesgo para cáncer gástrico?",
+        "opciones": {
+            "A": "Helicobacter pylori",
+            "B": "Gastritis aguda",
+            "C": "Diarrea crónica",
+            "D": "Giardia lamblia",
+            "E": "Esofagitis crónica"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 72,
+        "enunciado": "En el estudio de líquido cefalorraquídeo se encuentra: recuento de leucocitos 50 células por μl, a predominio de linfocitos, con hipoglucorraquia e hiperproteinorraquia. ¿Cuál es el agente etiológico más probable?",
+        "opciones": {
+            "A": "Virus de la inmunodeficiencia humana",
+            "B": "Cryptococcus neoformans",
+            "C": "Micobacterium tuberculosae",
+            "D": "Diplococcus pneumoniae",
+            "E": "Naegleria fowleri"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 73,
+        "enunciado": "Adolescente de 15 años, desde hace 48 horas presenta secreción ocular derecha que se acompaña de dolor, escozor intenso y fotofobia. Se diagnostica conjuntivitis bacteriana. ¿Cuál es el germen más frecuente?",
+        "opciones": {
+            "A": "Streptococcus pneumoniae",
+            "B": "Staphylococcus aureus",
+            "C": "Chlamydia trachomatis",
+            "D": "Mycoplasma pneumoniae",
+            "E": "Klebsiella sp"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 74,
+        "enunciado": "Mujer de 56 años, con estreñimiento crónico y tumoración sangrante que protruye por margen anal al defecar, que la reduce manualmente. Examen anal: tumoración blanda suprapectínea que protruye en el cuadrante anterior derecho. Se diagnostica hemorroides internas. ¿A que grado corresponde?",
+        "opciones": {
+            "A": "II",
+            "B": "IV",
+            "C": "V",
+            "D": "I",
+            "E": "III"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 75,
+        "enunciado": "¿Cuál es el manejo inicial de la epistaxis anterior en niños?",
+        "opciones": {
+            "A": "Uso de hemostáticos locales",
+            "B": "Cauterización del punto de sangrado",
+            "C": "Compresión digital por 5 minutos",
+            "D": "Taponamiento nasal anterior",
+            "E": "Uso de adrenalina local"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 76,
+        "enunciado": "Varón de 70 años hipertenso, diabético, hipertiroideo, llevado a emergencia por presentar dolor en primer dedo de pie derecho. Examen: aumento de volumen en primera articulación metatarso falángica derecha. ¿Cuál es el fármaco asociado a este efecto adverso?",
+        "opciones": {
+            "A": "Insulina",
+            "B": "Metformina",
+            "C": "Enalapril",
+            "D": "Hidroclorotiazida",
+            "E": "Levotiroxina"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 77,
+        "enunciado": "Escolar de 6 años procedente de Ica, es traido a emergencia por presentar dolor óseo generalizado, ictericia y palidez marcada. Examen: hepatoesplenomegalia, extremidades normales. Laboratorio: hemoglobina 6 g/dl, BT: 12 mg/dl, BD: 2 mg/dl, eritrocitos en semiluna. ¿Cuál es el diagnóstico?",
+        "opciones": {
+            "A": "Dengue",
+            "B": "Brucelosis",
+            "C": "Paludismo",
+            "D": "Anemia falciforme",
+            "E": "Leptospirosis"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 78,
+        "enunciado": "En un politraumatizado con fracturas en miembros superiores. ¿Cuál es la causa más frecuente de síndrome compartimental?",
+        "opciones": {
+            "A": "Alteración del drenaje linfático",
+            "B": "Isquemia de los tejidos blandos",
+            "C": "Edema muscular",
+            "D": "Contractura muscular",
+            "E": "Fracturas óseas"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 79,
+        "enunciado": "¿Cuál es el procedimiento ideal de vigilancia epidemiológica, de las infecciones intrahospitalarias en el establecimiento de salud, según la Directiva Sanitaria de Supervisión?",
+        "opciones": {
+            "A": "Activa",
+            "B": "Centinela",
+            "C": "Pasiva",
+            "D": "De eventos",
+            "E": "Mixta"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 80,
+        "enunciado": "Granmultigesta a término, sin control prenatal, acude por contracciones uterinas. Al examen: LCF: 140X', contracciones uterinas 3 en 10 min. con dilatación completa, luego de parto fallece por presentar atonia uterina. ¿Cuál es el tipo de muerte materna?",
+        "opciones": {
+            "A": "Tardía",
+            "B": "Indirecta",
+            "C": "Extrema",
+            "D": "Temprana",
+            "E": "Directa"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 81,
+        "enunciado": "Lactante de 12 meses, sin antecedentes patológicos, traído por su madre a emergencia por presentar bruscamente fiebre alta, convulsiones tónico-clónicas generalizadas con duración de 10 minutos y recuperación de la conciencia. ¿Cuál es el diagnóstico probable?",
+        "opciones": {
+            "A": "Síncope febril",
+            "B": "Convulsión febril compleja",
+            "C": "Estado epiléptico",
+            "D": "Mioclonías generalizadas",
+            "E": "Convulsión febril simple"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 82,
+        "enunciado": "¿Qué sustancia química produce broncodilatación?",
+        "opciones": {
+            "A": "Prostagladina E2",
+            "B": "Prostagladina D2",
+            "C": "Factor activador de plaquetas",
+            "D": "Histamina",
+            "E": "Leucotrieno D4"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 83,
+        "enunciado": "¿En cuál de las siguientes enfermedades se encuentra derrame pleural de tipo trasudado?",
+        "opciones": {
+            "A": "Mesotelioma",
+            "B": "Mixedema",
+            "C": "Hernia diafragmática",
+            "D": "Granulomatosis de Wegener",
+            "E": "Lupus eritematoso sistémico"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 84,
+        "enunciado": "Gestante a término, acude por presentar contracciones uterinas esporádicas, hace una hora repentinamente dolor intenso en abdomen. Examen: PA: 90/60mmHg, FC: 90X', FR: 18X', AU: 34cm, LCF:110X', abdomen: hipersensibilidad e incremento del tono uterino y evidencia sangrado vaginal. ¿Cuál es el diagnóstico más probable?",
+        "opciones": {
+            "A": "Desprendimiento prematuro de placenta",
+            "B": "Vasa previa",
+            "C": "Ruptura uterina",
+            "D": "Ruptura del seno marginal",
+            "E": "Placenta previa"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 85,
+        "enunciado": "¿Cuál es el microorganismo que se aísla con mayor frecuencia en la mastitis puerperal?",
+        "opciones": {
+            "A": "Enterococcus faecalis",
+            "B": "Klebsiella pneumoniae",
+            "C": "Estreptococcus sp",
+            "D": "Staphylococcus aureus",
+            "E": "Proteus mirabilis"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 86,
+        "enunciado": "Varón de 48 años, desde hace un mes presenta cambios de carácter, irritabilidad y dificultad para realizar actividades en el trabajo, que se acentúan durante las mañanas. Esposa refiere que está mas callado, demuestra poco interés por las actividades del hogar, con melancolía, adinamia y pérdida de peso. ¿Cuál es el diagnóstico mas probable?",
+        "opciones": {
+            "A": "Trastorno distímico",
+            "B": "Fobia social",
+            "C": "Obsesivo compulsivo",
+            "D": "Depresión mayor",
+            "E": "Ansiedad generalizada"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 87,
+        "enunciado": "En la estenosis del conducto colédoco como complicación post operatoria. ¿Cuál es la intervención quirúrgica indicada?",
+        "opciones": {
+            "A": "Coledocoduodenostomía",
+            "B": "Colocación de dren de Kher",
+            "C": "Hepatoyeyunostomía en Y de Roux",
+            "D": "Colédoco anastomosis término-terminal",
+            "E": "Dilatación del colédoco vía endoscópica"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 88,
+        "enunciado": "¿Qué elementos formes de la sangre (leucocitos) son más abundantes por microlitro en adultos?",
+        "opciones": {
+            "A": "Eosinófilos",
+            "B": "Basólfilos",
+            "C": "Monocitos",
+            "D": "Neutrófilos",
+            "E": "Linfocitos"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 89,
+        "enunciado": "Varón de 36 años, con quemadura de 2° grado en el 45% de la superficie corporal, 3er grado en miembros inferiores; se indica fasciotomía. En el preoperatorio se administra 2 L de solución salina EV. ¿Cuál es la complicación más frecuente de la anestesia epidural?",
+        "opciones": {
+            "A": "Cardiopatía isquémica",
+            "B": "Relajación muscular",
+            "C": "Hipotensión arterial",
+            "D": "Parálisis respiratoria",
+            "E": "Cefalea intensa"
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 90,
+        "enunciado": "Infante de 3 años, con diarrea crónica, que se exacerba luego de ingesta de leche. Sospecha de deficiencia de lactasa. ¿En qué monosacáridos se fragmenta la lactosa?",
+        "opciones": {
+            "A": "Fructosa y galactosa",
+            "B": "Sacarosa y manosa",
+            "C": "Manosa y fructosa",
+            "D": "Galactosa y glucosa",
+            "E": "Glucosa y celulosa"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 91,
+        "enunciado": "Varón, recién nacido a término por cesárea electiva, APGAR 9 al minuto. A las dos horas presenta dificultad respiratoria, taquipnea, quejido espiratorio y retracciones. Rx de tórax: hiperexpansión, horizontalización costal, infiltrados perihiliares y diafragma plano. ¿Cuál es el diagnóstico?",
+        "opciones": {
+            "A": "Membrana hialina",
+            "B": "Taquípnea transitoria",
+            "C": "Neumonía aspirativa",
+            "D": "Síndrome de aspiración meconial",
+            "E": "Displasia broncopulmonar"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 92,
+        "enunciado": "Mujer de 50 años, desde hace 6 años aumento progresivo del volumen en cuello, sin dolor. Hace un año se agrega tos y disfagia, cansancio. Examen: tiroides aumentada de tamaño, nódulo de 3 x 3 cm. superficie irregular y consistencia dura. Laboratorio: TSH elevado, ecografía: nódulo sólido hipoecogénico, contornos irregulares con microcalcificaciones centrales, mas alto que ancho. ¿Cuál es el diagnóstico más probable?",
+        "opciones": {
+            "A": "Enfermedad de Plummer",
+            "B": "Tiroiditis de Hashimoto",
+            "C": "Bocio endémico",
+            "D": "Carcinoma papilar",
+            "E": "Carcinoma folicular"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 93,
+        "enunciado": "Ante la duda diagnóstica de síndrome compartimental en miembro superior. ¿Cuál es el método más utilizado para la medición de la presión intracompartimental?",
+        "opciones": {
+            "A": "Monitoreo de pulsos arteriales distales",
+            "B": "Método de Stryker",
+            "C": "Ecodoppler seriado",
+            "D": "Catéter con mecha o de hendidura",
+            "E": "Espectroscopía"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 94,
+        "enunciado": "En la prevención de la fiebre amarilla. ¿A cuántos días de la vacuna se logra la inmunidad?",
+        "opciones": {
+            "A": "5",
+            "B": "20",
+            "C": "30",
+            "D": "15",
+            "E": "10"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 95,
+        "enunciado": "Paciente de 59 años, acude por presentar desde hace 8 semanas sangrado vaginal escaso, color marrón oscuro. FUR hace 9 años, sin antecedentes patológicos, ni de ingesta de fármacos. Examen ginecológico normal. ¿Cuál es la causa más frecuente?",
+        "opciones": {
+            "A": "Pólipo cervical",
+            "B": "Atrofia endometrial",
+            "C": "Hiperplasia endometrial",
+            "D": "Carúncula uretral",
+            "E": "Cáncer endometrial"
+        },
+        "respuesta": "B"
+    },
+    {
+        "numero": 96,
+        "enunciado": "¿Cuál es el anticonvulsivante que actúa inhibiendo los canales de sodio?",
+        "opciones": {
+            "A": "Fenitoína",
+            "B": "Pregabalina",
+            "C": "Gabapentina",
+            "D": "Etosuximida",
+            "E": "Vigabatrina"
+        },
+        "respuesta": "A"
+    },
+    {
+        "numero": 97,
+        "enunciado": "La bilirrubina se encuentra en varias formas en la sangre, en la ictericia del recién nacido la aparición de orina colúrica se debe a ...",
+        "opciones": {
+            "A": "circulación de bilirrubina libre.",
+            "B": "ligazón a proteina z y ligandina.",
+            "C": "unión de la bilirrubina a la albúmina.",
+            "D": "catabolismo del Hem.",
+            "E": "degradación de hemoglobina eritrocitaria."
+        },
+        "respuesta": "C"
+    },
+    {
+        "numero": 98,
+        "enunciado": "¿Qué caracteriza al síndrome depresivo en adolescentes?",
+        "opciones": {
+            "A": "Hiperfagia",
+            "B": "Insomnio",
+            "C": "Alucinaciones",
+            "D": "Verborrea",
+            "E": "Irritabilidad"
+        },
+        "respuesta": "E"
+    },
+    {
+        "numero": 99,
+        "enunciado": "En el Modelo de Atención Integral en Salud basado en Familia y Comunidad, el eje de los determinantes de la salud corresponde a:",
+        "opciones": {
+            "A": "Las actividades sectoriales",
+            "B": "La dimensión técnico operativa",
+            "C": "El eje de las necesidades de salud",
+            "D": "La dimensión política",
+            "E": "Los prestadores de servicios"
+        },
+        "respuesta": "D"
+    },
+    {
+        "numero": 100,
+        "enunciado": "¿Cuál es el tipo de amenorrea en una mujer con diagnóstico de anorexa nervosa?",
+        "opciones": {
+            "A": "Idiopática",
+            "B": "Autoinmunitaria",
+            "C": "Ambiental",
+            "D": "Hipotalámica",
+            "E": "Iatrogénica"
+        },
+        "respuesta": "D"
+    }
+]

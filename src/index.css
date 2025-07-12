@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Solución para que el fondo se muestre */
+html, body, #root {
+  height: 100%;
+}

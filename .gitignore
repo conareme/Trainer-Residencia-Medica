@@ -1,23 +1,29 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
+# dependencias
 /node_modules
-/.pnp
-.pnp.js
 
-# testing
-/coverage
-
-# production
+# build
 /build
 
-# misc
+# configuraciones del sistema operativo
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+Thumbs.db
 
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# entorno
+.env
+
+# editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# coverage tests
+coverage/
+
+# cache
+.cache/

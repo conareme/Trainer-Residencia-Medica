@@ -173,15 +173,8 @@ function App() {
           </div>
 
           <div className="mt-6 flex flex-wrap justify-start gap-2 sm:gap-4">
+            {/* Reintentar errores (si hay) */}
             {erroresPendientes.length > 0 && (
-              <button
-                className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded w-1/2 sm:w-auto"
-                onClick={volverAElegirCantidad}
-              >
-                Continuar
-              </button>
-            )}
-            {availableQuestions.length > 0 && (
               <button
                 className="bg-red-600 hover:bg-red-700 px-4 py-2 rounded w-1/2 sm:w-auto"
                 onClick={reintentarErrores}
@@ -189,6 +182,17 @@ function App() {
                 Reintentar
               </button>
             )}
+
+            {/* Continuar solo si hay preguntas restantes */}
+            {availableQuestions.length > 0 && (
+              <button
+                className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded w-1/2 sm:w-auto"
+                onClick={volverAElegirCantidad}
+              >
+                Continuar
+              </button>
+            )}
+
             <button
               className="bg-green-600 hover:bg-green-700 px-4 py-2 rounded w-1/2 sm:w-auto"
               onClick={volverInicio}
